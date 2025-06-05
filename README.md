@@ -35,7 +35,7 @@ python
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'chenda1993',
+    'password': 'yourpassword',
     'database': 'sales_db',
     'port': 3306,
     'charset': 'utf8mb4',
