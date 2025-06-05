@@ -1,0 +1,4 @@
+# 忽略 log 文件夹下的 access.log 文件
+log/access.log
+hw.py
+is_valid_iden.py
